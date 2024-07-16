@@ -14,8 +14,8 @@ You can follow along the entire development of this project <a href="https://www
 
 ## Buy and subscribe to the content
 ![screencapture-localhost-3000-merch-clyorlcvx0004cs8xl19t7tsr-2024-07-16-14_48_37](https://github.com/user-attachments/assets/0f35c180-d99b-41b1-ad20-59d3c6f1ca8e)
-![screencapture-localhost-3000-purchase-success-2024-07-16-14_49_26](https://github.com/user-attachments/assets/9b49ae2a-6891-479b-9dbf-2e6c74de22d1)
 ![screencapture-checkout-stripe-c-pay-cs-test-a1qT9zkjGsu0olnoHeXHGdLPvOqpHG998ADkjQzKsiWCuuPvNFqSWkX5Ic-2024-07-16-14_48_55](https://github.com/user-attachments/assets/f85add11-eac9-4586-b7bc-3764a92ad48a)
+![screencapture-localhost-3000-purchase-success-2024-07-16-14_49_26](https://github.com/user-attachments/assets/9b49ae2a-6891-479b-9dbf-2e6c74de22d1)
 ![screencapture-localhost-3000-pricing-2024-07-16-14_50_11](https://github.com/user-attachments/assets/131d25fb-11a0-429f-8e21-1e321881e914)
 ![screencapture-buy-stripe-test-3csbM13ig30I760bIL-2024-07-16-14_50_27](https://github.com/user-attachments/assets/fe352838-92bc-44cc-837c-d5bfd05509e1)
 ![screencapture-buy-stripe-c-pay-cs-test-a1K3VtGnmFJAitCqADEon5NIkWBSMISe4cYQqB2bkYsLStmLoBzGHAdmgP-2024-07-16-14_50_47](https://github.com/user-attachments/assets/7137b303-2de8-4356-8a25-4b41545315af)
